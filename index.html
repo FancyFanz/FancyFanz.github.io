@@ -26,8 +26,7 @@ layout: default
     <section class="post-meta">
       <div class="post-author">
         {% if post.author %}
-          {% assign the_author = post.author %}
-          By {% include author_link.html %}
+          By {% include author_link.html the_author = post.author %}
         {% endif %}
         &nbsp;
       </div>

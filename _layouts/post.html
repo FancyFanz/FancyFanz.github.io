@@ -10,8 +10,7 @@ layout: default
     <p class="subtitle">
       <span class="post-date">{{ page.date | date: "%B %-d, %Y" }}</span>
       {% if page.author %}
-      {% assign the_author = page.author %}
-       - by <strong>{% include author_link.html %}</strong>
+       - by <strong>{% include author_link.html the_author = page.author %}</strong>
       {% endif %}
     </p>
   </header>
