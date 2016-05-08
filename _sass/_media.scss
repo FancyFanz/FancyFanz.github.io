@@ -1,0 +1,55 @@
+//
+// Media structure from bootstrap for easy picture arrangement
+// --------------------------------------------------
+
+@mixin media-container {
+  margin-top: 15px;
+	zoom: 1;
+  overflow: hidden;
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+@mixin media-body {
+	zoom: 1;
+  overflow: hidden;
+  width: 10000px;
+	display: table-cell;
+	vertical-align: top;
+}
+
+@mixin media-heading {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+@mixin media-right {
+  float: right !important;
+	padding-left: 10px;
+	display: table-cell;
+	vertical-align: top;
+}
+
+@mixin media-left {
+  float: left !important;
+	padding-right: 10px;
+	display: table-cell;
+	vertical-align: top;
+}
+
+@mixin media-middle {
+  vertical-align: middle;
+}
+
+@mixin media-bottom {
+  vertical-align: bottom;
+}
+
+.media-container{@include media-container}
+.media-body{@include media-body}
+.media-heading{@include media-heading}
+.media-right{@include media-right}
+.media-left{@include media-left}
+.media-middle{@include media-middle}
+.media-bottom{@include media-bottom}

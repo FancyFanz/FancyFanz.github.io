@@ -1,0 +1,47 @@
+{% if site.inter_post_navigation == true %}
+  <!-- find previous and next post within category -->
+  {% if page.categories %}
+    {% assign category = page.categories[0] %}
+    {% assign posts = site.categories[category] %}
+    {% for post in posts %}
+      {% if post.url == page.url %}
+        {% assign post_index0 = forloop.index0 %}
+        {% assign post_index1 = forloop.index %}
+      {% endif %}
+    {% endfor %}
+    {% for post in posts %}
+      {% if post_index0 == forloop.index %}
+        {% assign next_post = post %}
+      {% endif %}
+      {% if post_index1 == forloop.index0 %}
+        {% assign prev_post = post %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  <section class="post-navigation">
+    <span class="next-post">
+      {% if next_post.url %}
+        <a href="{{ next_post.url }}">
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-square fa-stack-2x"></i>
+            <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+          </span>
+          <span class="page-number">{{ next_post.title }}</span>
+        </a>
+      {% endif %}
+    </span>
+    <span class="prev-post">
+      {% if prev_post.url %}
+        <a href="{{ prev_post.url }}">
+          <span class="page-number">{{ prev_post.title }}</span>
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-square fa-stack-2x"></i>
+            <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+      {% endif %}
+    </span>
+  </section>
+
+{% endif %}

@@ -1,0 +1,27 @@
+---
+layout: page
+title: Team
+permalink: /team/
+---
+
+<center>
+	<a href="/images/team/team.jpg" data-lightbox="team" data-title="The team.">
+	  <img src="/images/team/team_thumb.jpg" title="Our whole team.">
+	</a>
+</center>
+<br/>
+
+{% for person in site.categories.team reversed %}
+	<div class="person">
+	  <div class="picture">
+			<a href="/images/team/{{ person.image }}" data-lightbox="team" data-title="{{ person.name }}">
+			  <img src="/images/team/{{ person.thumb }}" title="{{ person.name }}">
+			</a>
+	  </div>
+	  <div class="info">
+			<h3 class="name"><a href="{{ person.url }}">{{ person.name }}</a></h3>
+			<span class="title">{{ person.title }}</span>
+			{{ person.content }}
+	  </div>
+	</div>
+{% endfor %}

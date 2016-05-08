@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+<div class="page">
+
+  <header class="post-header">
+    <h1 class="title">{{ page.title }}</h1>
+    <p class="subtitle">
+      <span class="post-date">{{ page.date | date: "%B %-d, %Y" }}</span>
+    </p>
+  </header>
+
+  {% include page_divider.html %}
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  <div class="gallery">
+  {% for image in page.images %}
+    <div class="item">
+      <a href="/images/gallery/{{ image.file }}.jpg" data-lightbox="{{ page.title }}" data-title="{{ image.caption }}">
+        <img src="/images/gallery/{{ image.file }}_thumb.jpg" title="{{ image.caption }}">
+      </a>
+    </div>
+  {% endfor %}
+  </div>
+
+  {% include social_footer.html %}
+
+</div>
+</div>

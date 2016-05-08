@@ -1,0 +1,11 @@
+{% assign author_link = "none" %}
+{% for person in site.categories.team %}
+  {% if person.name == the_author %}
+    {% assign author_link = person.url %}
+  {% endif %}
+{% endfor %}
+{% if author_link == "none" %}
+{{ the_author }}
+{% else %}
+<a href="{{ author_link }}">{{ the_author }}</a>
+{% endif %}
