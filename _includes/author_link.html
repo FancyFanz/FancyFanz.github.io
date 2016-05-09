@@ -1,6 +1,6 @@
 {% assign author_link = "none" %}
 {% assign the_author = include.the_author %}
-{% assign people = site.categories.team | where:"lang", page.lang %}
+{% assign people = site.categories.team | where:"lang", include.lang %}
 {% for person in people %}
   {% if person.ref == the_author %}
     {% assign author_link = person.url %}

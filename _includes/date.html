@@ -1,4 +1,4 @@
 {% assign m = include.date | date: "%m" | plus: 0 %}
-{{ include.date | date: "%d" }}{% if page.lang != "en" %}.{% endif %} 
-{{ site.months[m][page.lang] }}
+{{ include.date | date: "%d" }}{% if include.lang != "en" %}.{% endif %}
+{{ site.months[m][include.lang] }}
 {{ include.date | date: "%Y" }}
