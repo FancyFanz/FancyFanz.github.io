@@ -2,7 +2,7 @@
   <!-- find previous and next post within category -->
   {% if page.categories %}
     {% assign category = page.categories[0] %}
-    {% assign posts = site.categories[category] %}
+    {% assign posts = site.categories[category] | where:"lang", page.lang %}
     {% for post in posts %}
       {% if post.url == page.url %}
         {% assign post_index0 = forloop.index0 %}

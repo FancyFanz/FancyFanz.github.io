@@ -176,6 +176,17 @@ ul.default {
     	}
     }
   }
+
+	// Languages
+	.en, .de, .is {
+		height: 20px;
+		width: 30px;
+	}
+
+	.en:lang(en), .de:lang(de), .is:lang(is){
+		border: 1px solid $action-color;
+	}
+
 }
 
 /*

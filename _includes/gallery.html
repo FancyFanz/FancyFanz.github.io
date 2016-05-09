@@ -1,10 +1,5 @@
----
-layout: page
-title: Gallery
-permalink: /gallery/
----
-
-{% for album in site.categories.albums %}
+{% assign albums = site.categories.albums | where:"lang", page.lang %}
+{% for album in albums %}
   <h2><a href="{{ album.url }}">{{ album.title | capitalize }}</a></h2>
   <p>{{ album.content | strip_html | truncatewords: 50 }}</p>
   <div class="gallery">

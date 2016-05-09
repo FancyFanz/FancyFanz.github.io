@@ -1,11 +1,14 @@
 {% assign author_link = "none" %}
-{% for person in site.categories.team %}
-  {% if person.name == include.the_author %}
+{% assign the_author = include.the_author %}
+{% assign people = site.categories.team | where:"lang", page.lang %}
+{% for person in people %}
+  {% if person.ref == the_author %}
     {% assign author_link = person.url %}
+    {% assign the_author = person.title %}
   {% endif %}
 {% endfor %}
 {% if author_link == "none" %}
-{{ include.the_author }}
+{{ the_author }}
 {% else %}
-<a href="{{ author_link }}">{{ include.the_author }}</a>
+<a href="{{ author_link }}">{{ the_author }}</a>
 {% endif %}

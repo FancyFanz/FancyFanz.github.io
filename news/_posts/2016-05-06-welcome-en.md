@@ -1,7 +1,9 @@
 ---
 layout: post
+ref: welcome
+lang: en
 title:  "Welcome to the new website"
-author: Franzi
+author: franzi
 cover:  "/assets/instacode.png"
 ---
 

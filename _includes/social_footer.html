@@ -1,9 +1,9 @@
 <section class="rss">
-  <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml"  }}">via RSS</a></strong></p>
+  <p class="rss-subscribe text"><strong><a href="/feed-{{ page.lang }}.xml">{{ site.subscribe[page.lang] }}</a></a></strong></p>
 </section>
 
 <section class="share">
-  <span>Share: </span>
+  <span>{{ site.share[page.lang] }} </span>
   {% for social in site.social %}
     {% capture full_url %}{{ site.url }}{{ page.url }}{% endcapture %}
     {% if social.name == "Twitter" and social.share == true %}

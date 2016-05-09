@@ -1,0 +1,12 @@
+<ul class="posts-list">
+{% assign news = site.categories.news | where:"lang", page.lang %}
+{% for post in news %}
+  <li>
+    <strong>
+      <a href="{{ post.url  }}">{{ post.title }}</a>
+    </strong>
+    <span class="post-date"> - {% include date.html date = post.date %}</span>
+  </li>
+{% endfor %}
+</ul>
+<br>

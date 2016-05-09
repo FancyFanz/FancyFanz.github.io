@@ -1,10 +1,10 @@
 <header class="navigation" role="banner">
   <div class="navigation-wrapper">
-    <a href="/" class="logo">
+    <a href="/home/{{ lang }}" class="logo">
       {% if site.logo %}
-      <img src="{{ site.logo  }}" alt="{{ site.title }}">
+      <img src="{{ site.logo }}" alt="{{ site.title[lang] }}">
       {% else %}
-      <span>{{ site.title }}</span>
+      <span>{{ site.title[lang] }}</span>
       {% endif %}
     </a>
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
@@ -12,12 +12,41 @@
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-        {% for page in site.pages %}
-          {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url  }}">{{ page.title }}</a>
+        <!-- menu items -->
+        {% assign menus = site.pages | where:"lang", lang %}
+        {% for menu in menus  %}
+          {% if menu.title and menu.main_nav != false %}
+          <li class="nav-link">
+            <a href="{{ menu.url }}">{{ menu.title }}</a>
+          </li>
           {% endif %}
         {% endfor %}
+
+        <!-- lanaguage selector -->
+        {% if page.ref %}
+        {% assign pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+          {% if page.lang %}
+            <li class="nav-link">
+              <a href="{{ page.url }}">
+                  <img class="{{ page.lang }}" src="/images/flag_{{ page.lang }}.png"/>
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+
+        {% assign posts = site.posts | where:"ref", page.ref | where:"categories", page.categories | sort: 'lang' %}
+        {% for post in posts %}
+          <li class="nav-link">
+            <a href="{{ post.url }}">
+                <img class="{{ post.lang }}" src="/images/flag_{{ post.lang }}.png"/>
+            </a>
+          </li>
+        {% endfor %}
+        {% endif %}
+
       </ul>
+
     </nav>
   </div>
 </header>

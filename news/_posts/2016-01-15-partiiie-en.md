@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Dummy Post 3"
-author: Seb
+ref: party
+lang: en
+title:  "Dummy Post 2"
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.

@@ -1,5 +1,11 @@
+{% if page.lang %}
+  {% assign lang = page.lang %}
+{% else %}
+  {% assign lang = site.default_lang %}
+{% endif %}
+
 <!DOCTYPE html>
-<html>
+<html lang="{{ lang }}">
 
   {% include head.html %}
 

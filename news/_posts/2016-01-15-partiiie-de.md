@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Dummy Post 4"
-author: Guest
+ref: party
+lang: de
+title:  "Dummy Neuigkeiten 2"
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
+Noch ein dummy post. Lorem ipsum and all the rest.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

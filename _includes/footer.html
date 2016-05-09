@@ -2,23 +2,26 @@
 
   <div class="wrapper">
 
-    <h3 class="footer-heading">{{ site.title }}</h3>
+    <h3 class="footer-heading">{{ site.title[lang] }}</h3>
 
     <div class="site-navigation">
 
-      <p><strong>Site Map</strong></p>
+      <p><strong>{{ site.sitemap[lang] }}</strong></p>
       <ul class="pages">
-        {% for page in site.pages %}
-        {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url  }}">{{ page.title }}</a>
-        {% endif %}
+        {% assign menus = site.pages | where:"lang", lang %}
+        {% for menu in menus  %}
+          {% if menu.title and menu.main_nav != false %}
+          <li class="nav-link">
+            <a href="{{ menu.url }}">{{ menu.title }}</a>
+          </li>
+          {% endif %}
         {% endfor %}
       </ul>
     </div>
 
     <div class="site-contact">
 
-      <p><strong>Contact</strong></p>
+      <p><strong>{{ site.contact[lang] }}</strong></p>
       <ul class="social-media-list">
         <li>
           <a href="mailto:{{ site.email }}">
@@ -42,8 +45,8 @@
     </div>
 
     <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml"  }}">via RSS</a></strong></p>
-      <p class="text">{{ site.description }}</p>
+      <p class="rss-subscribe text"><strong><a href="/feed-{{ lang }}.xml">{{ site.subscribe[lang] }}</a></strong></p>
+      <p class="text">{{ site.description[lang] }}</p>
     </div>
 
   </div>
@@ -94,7 +97,7 @@ $(document).ready(function() {
   ga('create', '{{ site.ga_tracking_id }}', 'auto');
   ga('send', 'pageview', {
     'page': '{{ page.url }}',
-    'title': '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}'
+    'title': '{% if page.title %}{{ page.title }}{% else %}{{ site.title[lang] }}{% endif %}'
   });
 </script>
 {% endif %}
