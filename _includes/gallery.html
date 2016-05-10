@@ -1,0 +1,16 @@
+{% assign albums = site.categories.albums | where:"lang", page.lang %}
+{% for album in albums %}
+  <h2><a href="{{ album.url }}">{{ album.title | capitalize }}</a></h2>
+  <p>{{ album.content | strip_html | truncatewords: 50 }}</p>
+  <div class="gallery">
+  {% for image in album.images limit: 4 %}
+    <div class="item">
+      <a href="/images/gallery/{{ image.file }}.jpg" data-lightbox="{{ album.title }}" data-title="{{ image.caption }}">
+        <img src="/images/gallery/{{ image.file }}_thumb.jpg" title="{{ image.caption }}">
+      </a>
+    </div>
+  {% endfor %}
+  </div>
+  {% if forloop.last == false %}<hr>{% endif %}
+{% endfor %}
+<br>

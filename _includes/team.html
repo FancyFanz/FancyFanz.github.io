@@ -1,0 +1,22 @@
+<center>
+	<a href="/images/team/team.jpg" data-lightbox="team" data-title="{{ include.caption }}">
+	  <img src="/images/team/team_thumb.jpg" title="{{ include.caption }}">
+	</a>
+</center>
+<br/>
+
+{% assign people = site.categories.team | where:"lang", page.lang %}
+{% for person in people reversed %}
+	<div class="person">
+	  <div class="picture">
+			<a href="/images/team/{{ person.image }}" data-lightbox="team" data-title="{{ person.title }}">
+			  <img src="/images/team/{{ person.thumb }}" title="{{ person.title }}">
+			</a>
+	  </div>
+	  <div class="info">
+			<h3 class="name"><a href="{{ person.url }}">{{ person.title }}</a></h3>
+			<span class="title">{{ person.subtitle }}</span>
+			{{ person.content }}
+	  </div>
+	</div>
+{% endfor %}
