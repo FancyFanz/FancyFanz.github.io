@@ -4,7 +4,6 @@ ref: welcome
 lang: de
 title:  "Willkommen auf der neuen Webseite"
 author: franzi
-cover:  "/assets/instacode.png"
 ---
 
 You’ll find this post in your `news/_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
@@ -18,8 +17,8 @@ To add new posts, simply add a file in the `news/_posts` directory that follows 
 Lightbox has been enabled for images. To create the link that'll launch the lightbox, add <code>data-lightbox</code> and <code>data-title</code> attributes to an <code>&lt;a&gt;</code> tag around your <code>&lt;img&gt;</code> tag. The result is:
 
 <center>
-<a href="../../images/gallery/P1110635.jpg" data-lightbox="example" data-title="bla bla blub">
-  <img src="../../images/gallery/P1110635_thumb.jpg" title="bla bla yay">
+<a href="/images/gallery/P1110635.jpg" data-lightbox="example" data-title="bla bla blub">
+  <img src="/images/gallery/P1110635_thumb.jpg" title="bla bla yay">
 </a>
 </center>
 

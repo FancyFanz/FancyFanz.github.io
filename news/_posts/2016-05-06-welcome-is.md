@@ -1,10 +1,12 @@
 ---
 layout: post
 ref: welcome
-lang: en
-title:  "Welcome to the new website"
+lang: is
+title:  "Welcomski to the new websiteski"
 author: franzi
 ---
+
+Pretend that this is icelandik!
 
 You’ll find this post in your `news/_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
