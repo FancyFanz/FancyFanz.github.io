@@ -2,8 +2,8 @@
 layout: post
 ref: welcome
 lang: is
-title:  "Velkomin á nýja heimasíðuna - Hestahreysti"
+title:  "Velkomin á nýju heimasíðuna - Hestahreysti"
 author: franzi
 ---
 
-Þá er loksins komin að því, það er búið að ákveða nafn og vinnslan í heimasíðuna er hafin. Fylgjist með, ég læt ykkur vita þegar allt er tilbúið! :)
+Þá er loksins komið að því, það er búið að ákveða nafn og vinnslan í heimasíðunni er hafin. Fylgist með, ég læt ykkur vita þegar allt er tilbúið! :)
