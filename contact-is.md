@@ -8,6 +8,6 @@ Ef þið hafið einhverjar spurningar, vantar fleiri upplýsingar eða viljið f
 
 Mín er ánægjan.
 image: Kutur og eg.jpg
-**Franziska Kopf - Franzi**
+***Franziska Kopf - Franzi***
 gsm: +354 8970265
 netfang: franzikopf@googlemail.com
