@@ -11,7 +11,9 @@ Ef þið hafið einhverjar spurningar, vantar fleiri upplýsingar eða viljið f
 
 Mín er ánægjan.
 <center>
-image:  "/images/Kutur.jpg"
+<a href="/images/Kutur.jpg" data-lightbox="Kutur" data-title="Kutur">
+  <img src="/images/Kutur_thumb.jpg" title="Kutur">
+</a>
 </center>
 
 <center>
