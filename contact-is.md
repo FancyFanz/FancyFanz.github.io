@@ -15,7 +15,7 @@ image:  "/images/Kutur.jpg"
 </center>
 
 <center>
-*Franziska Kopf - Franzi*
+***Franziska Kopf - Franzi***
 </center>
 
 <center>
