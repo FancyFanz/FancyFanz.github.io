@@ -3,7 +3,7 @@ layout: page
 ref:  contact
 lang: de
 permalink: /contact/de/
-title: "Contact"
+title: "Kontakt"
 image:  Kutur.jpg
 ---
 
