@@ -13,7 +13,7 @@ description:
   en: "This is the best horse party site of Iceland. We even have Snaefellshorses."
   de: "Die beste Pferdepartieseite von Island, wir haben sogar Snafellspferde."
   is: "Styrkt af uppbyggingarsjóður vesturlands"
-default_lang: en
+default_lang: is
 url: "http://fancyfranz.github.io"
 cover:  "/images/cover.jpg"
 logo: "/images/logo.png"
