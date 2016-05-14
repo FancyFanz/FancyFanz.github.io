@@ -13,9 +13,12 @@ Mín er ánægjan.
 <center>
 image:  "/images/Kutur.jpg"
 
+
 ***Franziska Kopf - Franzi***
 
+
 gsm: +354 8970265
+
 
 netfang: franzikopf@googlemail.com
 </center>
