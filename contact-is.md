@@ -10,7 +10,7 @@ image:  Kutur.jpg
 Ef þið hafið einhverjar spurningar, vantar fleiri upplýsingar eða viljið fá mig í heimsókn, hafið þá endilega samband við mig.
 
 Mín er ánægjan.
-
+<center>
 image:  "/images/Kutur.jpg"
 
 ***Franziska Kopf - Franzi***
@@ -18,3 +18,4 @@ image:  "/images/Kutur.jpg"
 gsm: +354 8970265
 
 netfang: franzikopf@googlemail.com
+</center>
