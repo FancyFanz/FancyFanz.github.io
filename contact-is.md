@@ -11,7 +11,9 @@ Ef þið hafið einhverjar spurningar, vantar fleiri upplýsingar eða viljið f
 
 Mín er ánægjan.
 
+---
 image:  "/images/Kutur.jpg"
+---
 
 ***Franziska Kopf - Franzi***
 
