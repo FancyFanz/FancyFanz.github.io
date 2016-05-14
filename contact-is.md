@@ -8,7 +8,7 @@ Ef þið hafið einhverjar spurningar, vantar fleiri upplýsingar eða viljið f
 
 Mín er ánægjan.
 
-image: Kutur og eg.jpg
+image:  "/images/Kutur.jpg"
 
 ***Franziska Kopf - Franzi***
 
