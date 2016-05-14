@@ -16,7 +16,7 @@ Mín er ánægjan.
 </center>
 
 <center>
-***Franziska Kopf - Franzi***
+<strong><i>Franziska Kopf - Franzi</i></strong>
 </center>
 
 <center>
