@@ -98,13 +98,6 @@ months:
 
 # Social icons and sharing options
 social:
-  - name: Twitter
-    icon: twitter
-    username: Franziauftwitter
-    url: https://twitter.com/Franziauftwitter
-    desc: Follow me on Twitter
-    share: true
-
   - name: Facebook
     icon: facebook
     username: Franziauffacebook
