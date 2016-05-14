@@ -7,7 +7,7 @@ title: "Hafðu samband"
 Ef þið hafið einhverjar spurningar, vantar fleiri upplýsingar eða viljið fá mig í heimsókn, hafið þá endilega samband við mig.
 
 Mín er ánægjan.
-image: Kútur og ég
+image: Kutur og eg.jpg
 Franziska Kopf - Franzi
 gsm: +354 8970265
 netfang: franzikopf@googlemail.com
