@@ -2,7 +2,7 @@
 layout: post
 ref: welcome
 lang: is
-title:  "Welcomski to the new websiteski"
+title:  "Velkomin á nýja heimasíðuna - Hestahreysti"
 author: franzi
 ---
 
