@@ -2,17 +2,17 @@
 title:
   en: Franzi's page
   de: Franzi's Seite
-  is: Franzi Isi
+  is: Hestahreysti
 subtitle:
   en: "The horse party site of Iceland."
   de: "Die Pferdepartieseite von Island."
-  is: "Someoldladies gothere!"
-email: franzihorseparty@gmail.com
+  is: "Sjúkraþjálfun fyrir hestar"
+email: franzikopf@gmail.com
 name: Franziska Kopf
 description:
   en: "This is the best horse party site of Iceland. We even have Snaefellshorses."
   de: "Die beste Pferdepartieseite von Island, wir haben sogar Snafellspferde."
-  is: "Someoldladies gothere all the time."
+  is: "Styrkt af uppbyggingarsjóður vesturlands"
 default_lang: en
 url: "http://fancyfranz.github.io"
 cover: "/images/cover.jpg"
@@ -37,7 +37,7 @@ sitemap:
 contact:
   en: "Contact"
   de: "Kontakt"
-  is: "Contactis"
+  is: "Hafðu samband"
 subscribe:
   en: "Subscribe via RSS"
   de: "RSS"
@@ -50,51 +50,51 @@ months:
   01:
     en: "January"
     de: "Januar"
-    is: "Jan"
+    is: "Janúar"
   02:
     en: "February"
     de: "Februar"
-    is: "Feb"
+    is: "Febrúar"
   03:
     en: "March"
     de: "M&auml;rz"
-    is: "Mar"
+    is: "Mars"
   04:
     en: "April"
     de: "April"
-    is: "Apr"
+    is: "Apríl"
   05:
     en: "May"
     de: "Mai"
-    is: "Mai"
+    is: "Maí"
   06:
     en: "June"
     de: "Juni"
-    is: "Jun"
+    is: "Júní"
   07:
     en: "July"
     de: "Juli"
-    is: "Jul"
+    is: "Júlí"
   08:
     en: "August"
     de: "August"
-    is: "Aug"
+    is: "Ágúst"
   09:
     en: "September"
     de: "September"
-    is: "Sep"
+    is: "September"
   10:
     en: "Oktober"
     de: "October"
-    is: "Okt"
+    is: "Október"
   11:
     en: "November"
     de: "November"
-    is: "Nov"
+    is: "Nóvember"
   12:
     en: "December"
     de: "Dezember"
-    is: "Dec"
+    is: "Desember"
 
 # Social icons and sharing options
 social:
