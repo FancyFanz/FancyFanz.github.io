@@ -10,10 +10,10 @@ Ef þið hafið einhverjar spurningar, vantar fleiri upplýsingar eða viljið f
 
 Mín er ánægjan.
 
-image:  "/images/Kutur.jpg"
+image:  Kutur.jpg
 
-***Franziska Kopf - Franzi***
+                    ***Franziska Kopf - Franzi***
 
-gsm: +354 8970265
+                          gsm: +354 8970265
 
-netfang: franzikopf@googlemail.com
+                  netfang: franzikopf@googlemail.com
