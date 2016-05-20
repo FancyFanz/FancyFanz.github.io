@@ -15,7 +15,7 @@ description:
   is: "Styrkt af uppbyggingarsjóður vesturlands"
 default_lang: is
 url: "http://fancyfranz.github.io"
-cover:  "/images/Kutur.jpg"
+cover:  "/images/cover.jpg"
 logo: "/images/Logo2.png"
 icon: "/images/Logo2.png"
 front_page_news: 5
