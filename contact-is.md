@@ -24,5 +24,5 @@ gsm: +354 8970265
 </center>
 
 <center>
-netfang: franzikopf@googlemail.com
+netfang: franzikopf@gmail.com
 </center>
