@@ -20,9 +20,9 @@ Bitte melden Sie sich bei mir, ich freue mich Ihnen behilflich sein zu können.
 </center>
 
 <center>
-gsm: +354 8970265
+Handynummer: +354 8970265
 </center>
 
 <center>
-netfang: franzikopf@gmail.com
+Email: franzikopf@gmail.com
 </center>
