@@ -16,13 +16,13 @@ Bitte melden Sie sich bei mir, ich freue mich Ihnen behilflich sein zu können.
 </center>
 
 <center>
-***Franziska Kopf - Franzi***
+<strong><i>Franziska Kopf - Franzi</i></strong>
 </center>
 
 <center>
-Tel.: +354 8970265
+gsm: +354 8970265
 </center>
 
 <center>
-Email: franzikopf@googlemail.com
+netfang: franzikopf@gmail.com
 </center>
