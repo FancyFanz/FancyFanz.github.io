@@ -16,13 +16,13 @@ Please contact me, I'll be glad to help you:
 </center>
 
 <center>
-***Franziska Kopf - Franzi***
+<strong><i>Franziska Kopf - Franzi</i></strong>
 </center>
 
 <center>
-phone: +354 8970265
+Phone: +354 8970265
 </center>
 
 <center>
-Email: franzikopf@googlemail.com
+Email: franzikopf@gmail.com
 </center>
