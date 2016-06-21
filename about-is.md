@@ -18,7 +18,7 @@ Slys, sjúkdómar og streita eru bara nokkrir af mörgum mögulegum orsakavöldu
 
 • minnkandi afköst
 
-• áraásarhneigð eða áhuga- og sinnulaus hegðun
+• árásarhneigð eða áhuga- og sinnulaus hegðun
 
 • fælni og kvíði
 
@@ -29,3 +29,12 @@ Slys, sjúkdómar og streita eru bara nokkrir af mörgum mögulegum orsakavöldu
 Í öllum tilfellum er sameiginlegt markmið okkar allra sem komum að eða sinnum hestum að stuðla að því að þeir geti hreyft sig sársaukalaust og af ánægju.
 
 Í gegnum mína vinnu sem sérhæfður sjúkraþjálfari hesta get ég aðstoðað við að ná þeim markmiðum.
+
+***Hvað er sjúkraþjálfun?***
+
+Skoðun hjá sjúkraþjálfara gefur möguleika á að finna og greina truflanir á heildar starfsemi stoðkerfis hestsins eins og vöðvum, vöðvafelli og liðum, hryggsúlu og taugum.
+
+Með tilliti til líffærafræði viðkomandi liða og vöðva nota ég sérstök sjúkraþjálfunar handtök og hreyfingatækni. Með því næst fyrst fram verkjastilling.
+Fyrirstaða í einstökum liðum er losuð og þar með er skapaður grundvöllur fyrir hestinn að geta hreyft sig aftur af bestu getu.
+
+Hestasjúkraþjálfari er í samstarfi við alla aðila sem vinna í atvinnugreinum tengdum hrossum.
