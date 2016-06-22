@@ -4,6 +4,7 @@ ref: about
 lang: is
 permalink: /about/is/
 title: "Um starfsemina"
+image:  Skoðun_thumb.JPG
 ---
 
 ***Af hverju sjúkraþjálfun fyrir hesta?***
@@ -49,6 +50,10 @@ MTAP-Sjúkraþjálfari skoðar allan hestinn bæði í kyrrstöðu og á hreyfin
 Niðurstöður þessara athugana gefa sjúkraþjálfaranum heildarmynd á hreyfigetu hestsins og út frá henni er hægt að segja til um ástæðu hreyfiröskunar hestsins og út frá henni hægt að meta batahorfur hans. Út frá þessu vinnst áætlun um meðhöndlunarferli hjá sjúkraþjálfaranum og út frá henni er þróuð virk endurhæfingaáætlun fyrir knapa hestsins.
 
 Skoðunin tekur um það bil 30-60 mínutur. Skoðun á hestinum er einnig gerð við endurkomu, en tekur þá um 15 – 30 mínutur.
+
+<a href="/images/Skoðun_thumb.JPG" data-lightbox="Skoðun" data-title="Skoðun">
+  <img src="/images/Skoðun_thumb.JPG" title="Skoðun">
+</a>
 
 
 
