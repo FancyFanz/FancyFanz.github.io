@@ -4,18 +4,18 @@ title:
   de: Hestahreysti
   is: Hestahreysti
 subtitle:
-  en: "Sjúkraþjálfun fyrir hesta"
-  de: "Sjúkraþjálfun fyrir hesta"
+  en: "Manual therapy for horses in Iceland"
+  de: "Manuelle Therapie für Pferde in Island"
   is: "Sjúkraþjálfun fyrir hesta"
 email: franzikopf@gmail.com
 name: Franziska Kopf
 description:
-  en: "Styrkt af Uppbyggingarsjóður Vesturlands"
-  de: "Styrkt af Uppbyggingarsjóður Vesturlands"
+  en: "Supported by Uppbygingarsjóður Vesturlands"
+  de: "Mit der Unterstützung des Uppbyggingarsjóður Vesturlands"
   is: "Styrkt af Uppbyggingarsjóður Vesturlands"
 default_lang: is
 url: "http://fancyfranz.github.io"
-cover:  "/images/cover.jpg"
+cover:  "/images/Forsida.JPG"
 logo: "/images/Logo3_icon.png"
 icon: "/images/Logo3_icon.png"
 front_page_news: 5
