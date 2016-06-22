@@ -5,6 +5,7 @@ lang: is
 permalink: /about/is/
 title: "Um starfsemina"
 image:  Skoðun_thumb.JPG
+image:  Meðferð_thumb.JPG
 ---
 
 ***Af hverju sjúkraþjálfun fyrir hesta?***
@@ -68,3 +69,7 @@ Sjúkraþjálfunin hefur þau að markmið að:
 Meðhöndlunin sjálf lætur lítið yfir sér, áhorfendur verða vitni af nudd-, tog- eða þrýstandi hreyfingum, oft í slow-motion, á greinilega afslöppuðum hesti.
 
 Meðferð í sjúkraþjálfun tekur um það bil 60-90 mín. Að öllu jöfnu þarf fáa endurkomutíma. Ástæða þess er annars vegar að eftir vandlega skoðun er hægt að skilgreina orsakir vandamálsins og þar með koma í veg fyrir það. Og hinsvegar er hesturinn, eftir rækilega, markvissa og vandlega meðhöndlun, settur í þá stöðu að geta bætt sér upp langvinna eða skammvinna áverka. Hesturinn finnur í auknu mæli jafnvægi. Hér er nauðsynlegt að góð samvinna við umsjónarmann hestsins sé til staðar, þar sem það er hans ábyrgðarhlutverk að framkvæma ráðlagðar ráðstafarnir fyrir hestinn.
+
+<a href="/images/Meðferð_thumb.JPG" data-lightbox="Meðferð" data-title="Meðferð">
+  <img src="/images/Meðferð_thumb.JPG" title="Meðferð">
+</a>
