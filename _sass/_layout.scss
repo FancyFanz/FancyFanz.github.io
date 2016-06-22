@@ -167,7 +167,7 @@ ul.default {
   	a {
 	    display: inline-block;
 	    @include media ($tablet) {
-	      padding-right: 1.5em;
+	      padding-right: 1.0em;
 	    }
 	  }
 	  &:last-child a {
