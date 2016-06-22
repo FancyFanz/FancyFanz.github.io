@@ -20,7 +20,7 @@ Mín er ánægjan.
 </center>
 
 <center>
-gsm: +354 8970265
+gsm: 8970265
 </center>
 
 <center>
