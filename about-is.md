@@ -4,15 +4,14 @@ ref: about
 lang: is
 permalink: /about/is/
 title: "Um starfsemina"
-image:  Skoðun_thumb.JPG
-image:  Meðferð_thumb.JPG
+weight: 3
 ---
 
 ***Af hverju sjúkraþjálfun fyrir hesta?***
 
 Eðlileg hreyfigeta og liðleiki hestanna okkar getur takmarkast eða orðið fyrir truflunum vegna fjölda mismunandi þátta.
 
-Slys, sjúkdómar og streita eru bara nokkrir af mörgum mögulegum orsakavöldum sem liggja að baki fjölda vandamála. 
+Slys, sjúkdómar og streita eru bara nokkrir af mörgum mögulegum orsakavöldum sem liggja að baki fjölda vandamála.
 Merki um að undirliggjandi vandamál geti verið til staðar eru m.a.:
 
  - óhreinn taktur

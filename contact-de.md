@@ -4,10 +4,10 @@ ref:  contact
 lang: de
 permalink: /contact/de/
 title: "Kontakt"
-image:  Kutur.jpg
+weight: 5
 ---
 
-Haben Sie noch Fragen, brauchen Sie noch weitere Informationen oder möchten Sie mich zu Besuch bei Ihrem Pferd? 
+Haben Sie noch Fragen, brauchen Sie noch weitere Informationen oder möchten Sie mich zu Besuch bei Ihrem Pferd?
 Bitte melden Sie sich bei mir, ich freue mich Ihnen behilflich sein zu können.
 <center>
 <a href="/images/Kutur.jpg" data-lightbox="Kutur" data-title="Kútur und ich">
@@ -24,5 +24,5 @@ Handynummer: +354 8970265
 </center>
 
 <center>
-Email: franzikopf@gmail.com
+Email: <a href="mailto:franzikopf@gmail.com">franzikopf@gmail.com</a>
 </center>
