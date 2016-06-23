@@ -4,7 +4,7 @@ ref:  contact
 lang: is
 permalink: /contact/is/
 title: "Hafðu samband"
-image:  Kutur.jpg
+weight: 5
 ---
 
 Ef þið hafið einhverjar spurningar, vantar meiri upplýsingar eða viljið fá mig í heimsókn, hafið þá endilega samband við mig.
@@ -24,5 +24,5 @@ gsm: 8970265
 </center>
 
 <center>
-netfang: franzikopf@gmail.com
+netfang: <a href="mailto:franzikopf@gmail.com">franzikopf@gmail.com</a>
 </center>

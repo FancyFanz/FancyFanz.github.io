@@ -13,7 +13,7 @@
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
         <!-- menu items -->
-        {% assign menus = site.pages | where:"lang", lang %}
+        {% assign menus = site.pages | where:"lang", lang | sort:"weight" %}
         {% for menu in menus  %}
           {% if menu.title and menu.main_nav != false %}
           <li class="nav-link">

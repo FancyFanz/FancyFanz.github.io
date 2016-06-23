@@ -20,9 +20,17 @@ layout: default
 
   <div class="gallery">
   {% for image in page.images %}
+    {% if image.dropbox %}
+      {% assign src = image.dropbox %}
+      {% assign thumb = image.dropbox_thumb %}
+      {% assign suffix = "?raw=1" %}
+    {% else %}
+      {% assign src = "/images/gallery/" %}
+      {% assign thumb = "/images/gallery/" %}
+    {% endif %}
     <div class="item">
-      <a href="/images/gallery/{{ image.file }}.jpg" data-lightbox="{{ page.title }}" data-title="{{ image.caption }}">
-        <img src="/images/gallery/{{ image.file }}_thumb.jpg" title="{{ image.caption }}">
+      <a href="{{ src }}{{ image.file }}.jpg{{ suffix }}" data-lightbox="{{ page.title }}" data-title="{{ image.caption }}">
+        <img src="{{ thumb }}{{ image.file }}_thumb.jpg{{ suffix }}" title="{{ image.caption }}">
       </a>
     </div>
   {% endfor %}

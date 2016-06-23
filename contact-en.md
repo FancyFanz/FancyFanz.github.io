@@ -4,10 +4,10 @@ ref:  contact
 lang: en
 permalink: /contact/en/
 title: "Contact"
-image:  Kutur.jpg
+weight: 5
 ---
 
-Do you have any questions, do you need more information or would you like to have me visit your horse? 
+Do you have any questions, do you need more information or would you like to have me visit your horse?
 Please contact me, I'll be glad to help you:
 <center>
 <a href="/images/Kutur.jpg" data-lightbox="Kutur" data-title="Kútur and me">
@@ -24,5 +24,5 @@ Phone: +354 8970265
 </center>
 
 <center>
-Email: franzikopf@gmail.com
+Email: <a href="mailto:franzikopf@gmail.com">franzikopf@gmail.com</a>
 </center>
