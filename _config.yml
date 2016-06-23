@@ -16,8 +16,8 @@ description:
 default_lang: is
 url: "http://fancyfranz.github.io"
 cover:  "/images/Forsida.JPG"
-logo: "/images/Logo3_icon.png"
-icon: "/images/Logo3_icon.png"
+logo: "/images/final_icon.png"
+icon: "/images/final_icon.png"
 front_page_news: 5
 permalink: /:categories/:title/
 markdown: kramdown
