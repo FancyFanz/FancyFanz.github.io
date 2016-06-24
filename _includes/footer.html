@@ -46,7 +46,11 @@
 
     <div class="site-signature">
       <p class="rss-subscribe text"><strong><a href="/feed-{{ lang }}.xml">{{ site.subscribe[lang] }}</a></strong></p>
-      <p class="text">{{ site.description[lang] }}</p>
+      <p class="text">{{ site.description[lang] }}
+        {% if site.description_logo %}
+        <img src="{{ site.description_logo }}"/>
+        {% endif %}
+      </p>
     </div>
 
   </div>
