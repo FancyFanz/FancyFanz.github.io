@@ -1,8 +1,8 @@
 ---
 layout: page
 ref: price
-lang: is
-permalink: /price/is/
+lang: en
+permalink: /price/en/
 title: "price"
 weight: 6
 ---
