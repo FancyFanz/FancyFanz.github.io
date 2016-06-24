@@ -3,7 +3,7 @@ layout: page
 ref: price
 lang: en
 permalink: /price/en/
-title: "price"
+title: "Price"
 weight: 6
 ---
 
