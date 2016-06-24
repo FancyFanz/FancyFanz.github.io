@@ -4,7 +4,7 @@ ref:  contact
 lang: is
 permalink: /contact/is/
 title: "Hafðu samband"
-weight: 5
+weight: 6
 ---
 
 Ef þið hafið einhverjar spurningar, vantar meiri upplýsingar eða viljið fá mig í heimsókn, hafið þá endilega samband við mig.
