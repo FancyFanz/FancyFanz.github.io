@@ -14,10 +14,10 @@ description:
   de: "Mit der Unterstützung des Uppbyggingarsjóður Vesturlands"
   is: "Styrkt af Uppbyggingarsjóður Vesturlands"
 # kannst auch /images/soknaraaetlun.png probieren
-description_logo: "/images/soknaraaetlun_trans.png"
+description_logo: "/images/soknaraaetlun.png"
 default_lang: is
 url: "http://fancyfranz.github.io"
-cover:  "/images/Forsida.JPG"
+cover:  "/images/Forsida3.JPG"
 logo: "/images/final_icon.png"
 icon: "/images/final_icon.png"
 front_page_news: 5
