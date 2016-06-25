@@ -4,7 +4,7 @@ ref: price
 lang: de
 permalink: /price/de/
 title: "Preis"
-weight: 6
+weight: 5
 ---
 
 Untersuchung und Behandlung:  
