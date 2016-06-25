@@ -4,7 +4,7 @@ ref: about
 lang: is
 permalink: /about/is/
 title: "Um starfsemina"
-weight: 2
+weight: 1
 ---
 
 ### ***Af hverju sjúkraþjálfun fyrir hesta?***
