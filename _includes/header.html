@@ -27,7 +27,7 @@
         {% assign pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
         {% for page in pages %}
           {% if page.lang %}
-            <li class="nav-link">
+            <li class="lang-link">
               <a href="{{ page.url }}">
                   <img class="{{ page.lang }}" src="/images/flag_{{ page.lang }}.png"/>
               </a>
