@@ -12,9 +12,9 @@ name: Franziska Kopf
 description:
   en: "Supported by Uppbyggingarsjóður Vesturlands"
   de: "Mit der Unterstützung des Uppbyggingarsjóður Vesturlands"
-  is: "Styrkt af Uppbyggingarsjóður Vesturlands"
+  is: "Styrkt af Uppbyggingarsjóði Vesturlands"
 # kannst auch /images/soknaraaetlun.png probieren
-description_logo: "/images/soknaraaetlun.png"
+description_logo: "/images/soknaraaetlun1.jpg"
 default_lang: is
 url: "http://fancyfranz.github.io"
 cover:  "/images/Forsida3.JPG"
@@ -35,7 +35,7 @@ inter_post_navigation: true
 sitemap:
   en: "Site Map"
   de: "&Uuml;bersicht"
-  is: "Site Map"
+  is: "Veftré"
 contact:
   en: "Contact"
   de: "Kontakt"
@@ -105,7 +105,7 @@ social:
     username: Franziauffacebook
     url: https://twitter.com/Franziauffacebook
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus

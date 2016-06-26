@@ -4,7 +4,7 @@ ref: price
 lang: en
 permalink: /price/en/
 title: "Price"
-weight: 6
+weight: 5
 ---
 
 Check-up and treatment: 9.500,- isk

@@ -4,7 +4,7 @@ ref:  contact
 lang: en
 permalink: /contact/en/
 title: "Contact"
-weight: 5
+weight: 6
 ---
 
 Do you have any questions, do you need more information or would you like to have me visit your horse?

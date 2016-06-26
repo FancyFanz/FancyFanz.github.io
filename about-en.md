@@ -4,7 +4,7 @@ ref: about
 lang: en
 permalink: /about/en/
 title: "About"
-weight: 3
+weight: 1
 ---
 
 In the making...
