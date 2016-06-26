@@ -38,7 +38,7 @@ Hestasjúkraþjálfari er í samstarfi við alla aðila sem vinna í atvinnugrei
 
 MTAP-Sjúkraþjálfari skoðar allan hestinn, að meðtöldum útlimum og hófum, bæði í kyrrstöðu og á hreyfingu, í hringtaum og undir knapanum. Á þennan hátt eru útlínur vöðva og hreyfiferli skoðuð og fyrstu ályktanir dregnar um áreiðanleika og starfsemi vöðvahópanna. Við skoðun á öllum hestinum er spenna í vöðvum og vöðvafelli skoðuð, því næst virkni allra liða hestsins ásamt ásgrindarinnar.
 
-Niðurstöður þessara athugana gefa sjúkraþjálfaranum heildarmynd af hreyfigetu hestsins. Út frá henni er hægt að segja til um ástæðu hreyfiröskunar hestsins og þá er hægt að meta batahorfur hans. Í framhaldinu er unnin áætlun um meðhöndlunarferli hjá sjúkraþjálfaranum og út frá henni er þróuð virk endurhæfingaáætlun fyrir knapa hestsins.
+Niðurstöður þessara athugana gefa sjúkraþjálfaranum heildarmynd af hreyfigetu hestsins. Út frá henni er hægt að segja til um ástæðu hreyfiröskunar hestsins og þá er hægt að meta batahorfur hans. Í framhaldinu er unnin áætlun um meðhöndlunarferli hjá sjúkraþjálfaranum og út frá henni er þróuð virk endurhæfingaáætlun fyrir knapa hestsins að vinna eftir.
 
 Skoðunin tekur um það bil 30-60 mínutur. Einnig er framkvæmd skoðun á hestinum við endurkomu, en tekur þá um 15 – 30 mínutur.
 
@@ -54,8 +54,8 @@ Skoðunin tekur um það bil 30-60 mínutur. Einnig er framkvæmd skoðun á hes
 
 Sjúkraþjálfunin hefur þau að markmið að:
 
- - leysa upp þrýstingsástand eða spennu í liðunum(liðum), hryggsúlunni(hryggsúlu) og útlimunum/fótunum(fótum)
- - endurheimta hina eðlilegu starfsemi vöðvanna til að slakað á og dragast saman. Með þessu er hestinum gert kleift að finna eigið jafnvægi aftur, hreyfingarnar verða frjálslegri. Með þessu fyrirbyggjast kvillar í stoðkerfinu (t.d. helti) og hesturinn verður betri í reið. Í meðhöndluninni notar sjúkraþjálfarinn mismunandi meðhöndlunaraðferðir. Samspil þrýstings á ákveðna staði í vöðvunum eykur blóðflæði til vöðvanna, ásamt sérþekkingu á virkni taugakerfisins. Þannig eru ákveðin viðbrögð í mjúkvefnum og liðunum meðvitað kölluð fram, sem hjálpa til við að endurheimta fyrri starfsemi.
+ - leysa upp þrýstingsástand eða spennu í liðum, hryggsúlu og fótum
+ - endurheimta hina eðlilegu starfsemi vöðvanna, að slaka á og dragast saman. Með þessu er hestinum gert kleift að finna eigið jafnvægi aftur og hreyfingarnar verða frjálslegri. Þannig fyrirbyggjast kvillar í stoðkerfinu (t.d. helti) og hesturinn verður betri í reið. Í meðhöndluninni notar sjúkraþjálfarinn mismunandi meðhöndlunaraðferðir. Samspil þrýstings á ákveðna staði í vöðvunum eykur blóðflæði til vöðvanna, ásamt sérþekkingu á virkni taugakerfisins. Þannig eru ákveðin viðbrögð í mjúkvefnum og liðunum meðvitað kölluð fram, sem hjálpa til við að endurheimta fyrri starfsemi.
 
 Meðhöndlunin sjálf lætur lítið yfir sér, áhorfendur verða vitni af nudd-, tog- eða þrýstandi hreyfingum, oft í slow-motion, á greinilega afslöppuðum hesti.
 
