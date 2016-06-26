@@ -27,7 +27,7 @@ Merki um að undirliggjandi vandamál geti verið til staðar eru m.a.:
 
 ### ***Hvað er sjúkraþjálfun fyrir hesta?***
 
-Skoðun hjá sjúkraþjálfara gefur möguleika á að finna og greina truflanir á heildar starfsemi stoðkerfis hestsins eins og vöðvum, vöðvafelli og liðum, hryggsúlu og taugum.
+Skoðun hjá sjúkraþjálfara gefur möguleika á að finna og greina truflanir á heildar starfsemi stoðkerfis hestsins eins og vöðvum, vöðvafelli (fascia) og liðum, hryggsúlu og taugum.
 
 Með tilliti til líffærafræði viðkomandi liða og vöðva nota ég sérstök sjúkraþjálfunar handtök og hreyfingatækni. Með því næst fyrst fram verkjastilling. Fyrirstaða í einstökum liðum er losuð og þar með er skapaður grundvöllur fyrir hestinn að geta hreyft sig aftur af bestu getu.
 
@@ -36,11 +36,11 @@ Hestasjúkraþjálfari er í samstarfi við alla aðila sem vinna í atvinnugrei
 
 ### ***Hvernig fer skoðunin fram?***
 
-MTAP-Sjúkraþjálfari skoðar allan hestinn bæði í kyrrstöðu og á hreyfingu, í hringtaum og undir knapanum, að meðtöldum útlimum og hófum. Á þennan hátt eru útlínur vöðva og hreyfiferli skoðuð og fyrstu ályktanir dregnar um áreiðanleika og starfsemi vöðvahópanna. Við skoðun á öllum hestinum er spenna í vöðvum og vöðvafelli (fascia) skoðuð, því næst virkni allra liða hestsins ásamt ásgrindarinnar.
+MTAP-Sjúkraþjálfari skoðar allan hestinn, að meðtöldum útlimum og hófum, bæði í kyrrstöðu og á hreyfingu, í hringtaum og undir knapanum. Á þennan hátt eru útlínur vöðva og hreyfiferli skoðuð og fyrstu ályktanir dregnar um áreiðanleika og starfsemi vöðvahópanna. Við skoðun á öllum hestinum er spenna í vöðvum og vöðvafelli skoðuð, því næst virkni allra liða hestsins ásamt ásgrindarinnar.
 
-Niðurstöður þessara athugana gefa sjúkraþjálfaranum heildarmynd á hreyfigetu hestsins og út frá henni er hægt að segja til um ástæðu hreyfiröskunar hestsins og út frá henni hægt að meta batahorfur hans. Út frá þessu vinnst áætlun um meðhöndlunarferli hjá sjúkraþjálfaranum og út frá henni er þróuð virk endurhæfingaáætlun fyrir knapa hestsins.
+Niðurstöður þessara athugana gefa sjúkraþjálfaranum heildarmynd af hreyfigetu hestsins. Út frá henni er hægt að segja til um ástæðu hreyfiröskunar hestsins og þá er hægt að meta batahorfur hans. Í framhaldinu er unnin áætlun um meðhöndlunarferli hjá sjúkraþjálfaranum og út frá henni er þróuð virk endurhæfingaáætlun fyrir knapa hestsins.
 
-Skoðunin tekur um það bil 30-60 mínutur. Skoðun á hestinum er einnig gerð við endurkomu, en tekur þá um 15 – 30 mínutur.
+Skoðunin tekur um það bil 30-60 mínutur. Einnig er framkvæmd skoðun á hestinum við endurkomu, en tekur þá um 15 – 30 mínutur.
 
 <center>
 <a href="/images/Skoðun_thumb.JPG" data-lightbox="Skoðun" data-title="Skoðun">
