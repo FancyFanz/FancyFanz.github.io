@@ -29,6 +29,12 @@
             <span class="username">{{ site.email }}</span>
           </a>
         </li>
+        <li>
+          <a href="tel:{{ site.phone }}">
+            <i class="fa fa-phone"></i>
+            <span class="username">{{ site.phone }}</span>
+          </a>
+        </li>
 
         {% for social in site.social %}
           {% if social.url != null %}
