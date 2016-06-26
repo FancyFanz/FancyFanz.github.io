@@ -8,6 +8,7 @@ subtitle:
   de: "Manuelle Therapie für Pferde in Island"
   is: "Sjúkraþjálfun fyrir hesta"
 email: franzikopf@gmail.com
+phone: +354 8970265
 name: Franziska Kopf
 description:
   en: "Supported by Uppbyggingarsjóður Vesturlands"
@@ -20,7 +21,7 @@ url: "http://fancyfranz.github.io"
 cover:  "/images/Forsida3.JPG"
 logo: "/images/final_icon.png"
 icon: "/images/final_icon.png"
-front_page_news: 5
+front_page_news: 3
 permalink: /:categories/:title/
 markdown: kramdown
 inter_post_navigation: true
@@ -102,8 +103,8 @@ months:
 social:
   - name: Facebook
     icon: facebook
-    username: Franziauffacebook
-    url: https://twitter.com/Franziauffacebook
+    username:
+    url:
     desc: Friend me on Facebook
     share: false
 
