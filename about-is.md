@@ -36,7 +36,7 @@ Hestasjúkraþjálfari er í samstarfi við alla aðila sem vinna í atvinnugrei
 
 ### ***Hvernig fer skoðunin fram?***
 
-Hestasjúkraþjálfari lærður hjá samtökum hestasjúkraþjálfara skoðar allan hestinn, að meðtöldum útlimum og hófum, bæði í kyrrstöðu og á hreyfingu, í hringtaum og undir knapanum. Á þennan hátt eru útlínur vöðva og hreyfiferli skoðuð og fyrstu ályktanir dregnar um áreiðanleika og starfsemi vöðvahópanna. Við skoðun á öllum hestinum er spenna í vöðvum og vöðvafelli skoðuð, því næst virkni allra liða hestsins ásamt ásgrindarinnar.
+Hestasjúkraþjálfari lærður hjá samtökum hestasjúkraþjálfara (MTAP) skoðar allan hestinn, að meðtöldum útlimum og hófum, bæði í kyrrstöðu og á hreyfingu, í hringtaum og undir knapanum. Á þennan hátt eru útlínur vöðva og hreyfiferli skoðuð og fyrstu ályktanir dregnar um áreiðanleika og starfsemi vöðvahópanna. Við skoðun á öllum hestinum er spenna í vöðvum og vöðvafelli skoðuð, því næst virkni allra liða hestsins ásamt ásgrindarinnar.
 
 Niðurstöður þessara athugana gefa sjúkraþjálfaranum heildarmynd af hreyfigetu hestsins. Út frá henni er hægt að segja til um ástæðu hreyfiröskunar hestsins og þá er hægt að meta batahorfur hans. Í framhaldinu er unnin áætlun um meðhöndlunarferli hjá sjúkraþjálfaranum og út frá henni er þróuð virk endurhæfingaáætlun fyrir knapa hestsins að vinna eftir.
 
