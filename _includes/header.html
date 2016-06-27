@@ -37,7 +37,7 @@
 
         {% assign posts = site.posts | where:"ref", page.ref | where:"categories", page.categories | sort: 'lang' %}
         {% for post in posts %}
-          <li class="nav-link">
+          <li class="lang-link">
             <a href="{{ post.url }}">
                 <img class="{{ post.lang }}" src="/images/flag_{{ post.lang }}.png"/>
             </a>
