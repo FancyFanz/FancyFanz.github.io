@@ -11,4 +11,4 @@ Erstbehandlung: 9.500,- isk
 
 Folgebehandlung: 7.500,- isk
 
-Fahrtkosten: Auf Anfrage.
+Fahrtkosten: Auf Anfrage
