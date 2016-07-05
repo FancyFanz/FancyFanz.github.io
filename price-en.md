@@ -11,4 +11,4 @@ Check-up and treatment: 9.500,- isk
 
 Follow-up treatment: 7.500,- isk
 
-Travel expenses: By arrangement.
+Travel expenses: By arrangement
