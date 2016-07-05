@@ -11,4 +11,4 @@ Skoðun & meðhöndlun: 9.500,- isk
 
 Framhaldsmeðferð: 7.500,- isk
 
-Akstur: Rukkað er fyrir akstur utan höfuðborgarsvæðisins.
+Akstur: Samkvæmt samkomulagi.
