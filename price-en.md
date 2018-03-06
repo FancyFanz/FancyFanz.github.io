@@ -7,8 +7,8 @@ title: "Price"
 weight: 5
 ---
 
-Check-up and treatment: 9.500,- isk
+Check-up and treatment: 10.000,- isk
 
-Follow-up treatment: 7.500,- isk
+Follow-up treatment: 8.000,- isk
 
 Travel expenses: By arrangement
