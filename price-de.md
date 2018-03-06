@@ -7,8 +7,8 @@ title: "Preise"
 weight: 5
 ---
 
-Erstbehandlung: 9.500,- isk
+Erstbehandlung: 10.000,- isk
 
-Folgebehandlung: 7.500,- isk
+Folgebehandlung: 8.000,- isk
 
 Fahrtkosten: Auf Anfrage
