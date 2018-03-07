@@ -1,7 +1,7 @@
 ---
 layout: post
 ref: bookings
-lang: is
+lang: de
 title:  "Ich nehme Buchungen entgegen"
 author: franzi
 ---
