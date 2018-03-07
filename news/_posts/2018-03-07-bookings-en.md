@@ -1,7 +1,7 @@
 ---
 layout: post
 ref: bookings
-lang: is
+lang: en
 title:  "I'm open for bookings"
 author: franzi
 ---
