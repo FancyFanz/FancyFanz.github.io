@@ -3,8 +3,8 @@ layout: page
 ref:  contact
 lang: is
 permalink: /contact/is/
-title: "Hafðu samband"
-weight: 6
+title: "Hafa samband"
+weight: 7
 ---
 
 Ef þið hafið einhverjar spurningar, vantar meiri upplýsingar eða viljið fá mig í heimsókn, hafið þá endilega samband við mig.

@@ -1,9 +1,9 @@
 {% assign albums = site.categories.albums | where:"lang", page.lang %}
 {% for album in albums %}
-  <h2><a href="{{ album.url }}">{{ album.title | capitalize }}</a></h2>
+  <h2><a href="{{ album.url }}"><i class="fa fa-link"></i> {{ album.title }}</a></h2>
   <p>{{ album.content | strip_html | truncatewords: 50 }}</p>
   <div class="gallery">
-  {% for image in album.images limit: 4 %}
+  {% for image in album.images limit: 0 %}
 
     {% if image.dropbox %}
       {% assign src = image.dropbox %}
