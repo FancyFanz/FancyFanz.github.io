@@ -7,8 +7,8 @@ title: "Verð"
 weight: 5
 ---
 
-Skoðun & meðhöndlun: 9.500,- isk
+Skoðun & meðhöndlun: 10.000,- isk
 
-Framhaldsmeðferð: 7.500,- isk
+Framhaldsmeðferð: 8.000,- isk
 
-Akstur: Rukkað er fyrir akstur utan höfuðborgarsvæðisins.
+Akstur: Samkvæmt samkomulagi
