@@ -4,7 +4,7 @@ ref:  contact
 lang: de
 permalink: /contact/de/
 title: "Kontakt"
-weight: 6
+weight: 7
 ---
 
 Haben Sie noch Fragen, brauchen Sie noch weitere Informationen oder möchten Sie mich zu Besuch bei Ihrem Pferd?

@@ -120,7 +120,7 @@ ul.default {
     img {
       max-height: 2.5em;
       margin-top: 0.75em;
-      padding-right: 1em;
+      padding-right: 0.1em;
     }
     span {
     	font-size: 1.25em;
@@ -153,9 +153,9 @@ ul.default {
   // Nav items
   ul li.nav-link, li.lang-link {
     display: block;
-    text-align: right;
+    text-align: center;
     width: 100%;
-    padding: 0.25em 0;
+    padding: 0.3em 0;
     @include media ($tablet) {
       background: transparent;
       display: inline;
@@ -167,12 +167,12 @@ ul.default {
   	a {
 	    display: inline-block;
 	    @include media ($tablet) {
-	      padding-right: 1.0em;
+	      padding-right: 0.3em;
 	    }
 	  }
 	  &:last-child a {
 	  	@include media ($tablet) {
-    		padding-right: 1em;
+    		padding-right: 0.3em;
     	}
     }
   }
@@ -377,6 +377,28 @@ ul.default {
 
 		.picture {
 			@include media-left;
+			img {
+				max-width: 160px;
+				margin: auto;
+				border: 2px solid $dark-gray;
+			}
+		}
+
+		.info {
+			@include media-body;
+			.name {@include media-heading}
+			.title {color: $medium-gray}
+		}
+	}
+
+	/*
+	 * Recommendation
+	 */
+	.recommendation {
+		@include media-container;
+
+		.picture {
+			@include media-right;
 			img {
 				max-width: 160px;
 				margin: auto;
