@@ -20,7 +20,7 @@
 			{% endfor %}
 		</div>
 		<div class="info">
-			{{ recommendation.summary }}
+			{{ recommendation.summary | newline_to_br }}
 	  </div>
 	</div>
 {% endfor %}
