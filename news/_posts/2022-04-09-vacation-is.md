@@ -1,6 +1,6 @@
 ---
 layout: post
-ref: bookings_move
+ref: vacation
 lang: is
 title:  "Í fríi"
 author: franzi
