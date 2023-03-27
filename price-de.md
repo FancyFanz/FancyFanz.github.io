@@ -9,6 +9,6 @@ weight: 5
 
 Erstbehandlung: 17.000,- isk
 
-Folgebehandlung: 15.000,- isk
+Folgebehandlung: 14.000,- isk
 
 Fahrtkosten: Auf Anfrage
