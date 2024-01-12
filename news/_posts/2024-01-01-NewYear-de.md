@@ -2,7 +2,7 @@
 layout: post
 ref: New Year
 lang: de
-title:  "Ein Frohes Neues Jahr 2024"
+title: "Ein Frohes Neues Jahr 2024"
 author: franzi
 ---
 Ich wünsche Ihnen allen ein glückliches und erfolgreiches neues Jahr 2024! Und danke zugleich für das vergangene Jahr.
